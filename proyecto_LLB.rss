@@ -56,7 +56,7 @@
 			<link>https://www.agenciasinc.es/Noticias/Descubierto-un-nuevo-sistema-CRISPR-autodestructor</link>
 			<description>Una de las tijeras genéticas CRISPR más conocidas utiliza la proteína Cas9 para seccionar el genoma del virus invasor en zonas concretas. Ahora, investigadores estadounidenses y alemanes han identificado otra, llamada Cas12a2, que corta de forma indiscriminada las moléculas de ADN y ARN de la propia célula infectada hasta acabar con ella. El hallazgo podría aplicarse en el diagnóstico de enfermedades víricas.</description>
 			<author>redaccion@agenciasinc.es</author>
-			<enclosure url="https://github.com/Laura-luque/RSS-LLB.github.io/Descubierto-un-nuevo-sistema-CRISPR-autodestructor.jpg" length="1600" type="image/jpg" />
+			<enclosure url="https://raw.githubusercontent.com/Laura-luque/RSS-LLB.github.io/main/Descubierto-un-nuevo-sistema-CRISPR-autodestructor.jpg" length="1600" type="image/jpg" />
 			<pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
 			<source url="https://www.agenciasinc.es/Noticias/Descubierto-un-nuevo-sistema-CRISPR-autodestructor">CRISPR</source>
 		</item>
